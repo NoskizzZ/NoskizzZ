@@ -4,10 +4,10 @@
 
 ## 🎓 À propos de moi
 
-* [cite_start]📖 Je m'appelle **Mathis**, étudiant en 1ère année de **BTS SIO option SISR** au Lycée Chevrollier (Angers)[cite: 2, 11].
-* [cite_start]🔍 Actuellement **à la recherche d'un stage** en informatique du **11 mai au 26 juin 2026**.
-* [cite_start]🛠️ Passionné par l'automatisation (Python, Ansible) et l'administration système[cite: 17, 40].
-* [cite_start]🛡️ Certifié **Secnum Académie** (ANSSI).
+* 📖 Je m'appelle **Mathis**, étudiant en 1ère année de **BTS SIO option SISR** au Lycée Chevrollier (Angers)[cite: 2, 11].
+* 🔍 Actuellement **à la recherche d'un stage** en informatique du **11 mai au 26 juin 2026**.
+* 🛠️ Passionné par l'automatisation (Python, Ansible) et l'administration système[cite: 17, 40].
+* 🛡️ Certifié **Secnum Académie** (ANSSI).
 
 ---
 
