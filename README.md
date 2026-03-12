@@ -5,7 +5,6 @@
 ## 🎓 À propos de moi
 
 * 📖 Je m'appelle **Mathis**, étudiant en **BTS SIO option SISR** (Solutions d'infrastructure, systèmes et réseaux).
-* 🔍 Je recherche un **stage en informatique** pour la période de **Mai à Juin 2026**.
 * 🛠️ Spécialisé dans l'administration système et l'automatisation des tâches.
 * 🛡️ Certifié **Secnum Académie** par l'ANSSI.
 
