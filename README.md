@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Salut%2C+moi+c'est+Mathis;%C3%89tudiant+en+BTS+SIO+SISR;Passionn%C3%A9+par+les+r%C3%A9seaux" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Salut%2C+moi+c'est+Mathis;%C3%89tudiant+en+BTS+SIO+SISR;Passionn%C3%A9+par+l'automatisation" alt="Typing SVG" />
 </div>
 
 ## 🎓 À propos de moi
 
-* 📖 Je m'appelle **Mathis**, étudiant en 1ère année de **BTS SIO option SISR** au Lycée Chevrollier (Angers)[cite: 2, 11].
-* 🔍 Actuellement **à la recherche d'un stage** en informatique du **11 mai au 26 juin 2026**.
-* 🛠️ Passionné par l'automatisation (Python, Ansible) et l'administration système[cite: 17, 40].
-* 🛡️ Certifié **Secnum Académie** (ANSSI).
+* 📖 Je m'appelle **Mathis**, étudiant en **BTS SIO option SISR** (Solutions d'infrastructure, systèmes et réseaux).
+* 🔍 Je recherche un **stage en informatique** pour la période de **Mai à Juin 2026**.
+* 🛠️ Spécialisé dans l'administration système et l'automatisation des tâches.
+* 🛡️ Certifié **Secnum Académie** par l'ANSSI.
 
 ---
 
@@ -18,24 +18,24 @@
   <img src="https://skillicons.dev/icons?i=linux,windows,debian,ubuntu,cisco,docker" />
 </div>
 
-* [cite_start]**Infrastructure :** Administration AD, DNS, DHCP, et solutions CISCO[cite: 40, 42].
-* [cite_start]**Virtualisation :** Maîtrise de Proxmox, VMware et VirtualBox[cite: 41].
-* [cite_start]**Supervision & Support :** Utilisation de GLPI, Veyon et déploiement via Ansible[cite: 17, 21, 42].
+* **Infrastructure :** Administration AD, DNS, DHCP et environnements CISCO.
+* **Virtualisation :** Maîtrise de Proxmox, VMware et VirtualBox.
+* **Supervision :** Gestion de parc et déploiement automatisé.
 
 ### 📜 Scripting & Développement
 <div align="center">
   <img src="https://skillicons.dev/icons?i=bash,powershell,py,cs,mysql,html,css" />
 </div>
 
-* [cite_start]**Automatisation :** Création de scripts en Python, Bash et AutoHotkey pour l'industrialisation de postes[cite: 18, 32].
-* [cite_start]**Bases de données :** Gestion de bases MySql / SQL[cite: 38].
+* **Automatisation :** Conception de scripts d'installation et d'industrialisation (Python, Ansible, PowerShell, AutoHotkey).
+* **Bases de données :** Gestion et requêtage SQL (MySQL).
 
 ---
 
-## 💼 Expériences marquantes
+## 💼 Expériences 
 
-* [cite_start]**IUT Angers-Cholet :** Automatisation du déploiement avec **Python & Ansible** et refonte d'architecture réseau[cite: 17, 19].
-* [cite_start]**Clinique de l'Anjou :** Développement d'outils internes en Python et maintenance support de proximité[cite: 23, 25].
+* **Secteur Éducation & Recherche :** Mise en œuvre de scripts Ansible/Python pour le déploiement automatisé et optimisation d'architecture réseau.
+* **Secteur Hospitalier :** Développement d'outils de gestion interne en Python et support technique de proximité.
 
 ---
 
@@ -55,5 +55,5 @@
 ---
 
 <div align="center">
-  <a href="mailto:mathis.landa49@gmail.com">📩 Me contacter par Mail</a> | [cite_start]📍 Angers, France [cite: 9, 10]
+  🚀 *Passionné par l'infrastructure et l'open-source*
 </div>
